@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
@@ -8,8 +9,8 @@
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="modules">
           <set>
-            <option value="/part/data/Code/AndroidStudioProjects/Pokedex" />
-            <option value="/part/data/Code/AndroidStudioProjects/Pokedex/app" />
+            <option value="/part/data/Code/AndroidStudioProjects/CS50/Pokedex" />
+            <option value="/part/data/Code/AndroidStudioProjects/CS50/Pokedex/app" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
